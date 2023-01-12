@@ -1,0 +1,27 @@
+body {
+    background-color:antiquewhite;
+}
+
+h1 {
+    color:darkgoldenrod;
+    text-align: center;
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(fondomadera.jpg) 15 round;
+    margin-right: 220px;
+    margin-left: 220px;
+    text-shadow: 1px 1px bisque;
+}
+
+.contacts {
+    text-align: center;
+}
+
+#logotec {
+    float: right;
+    border-radius: 30%;
+    display: flex;
+    opacity: 0.85;
+    filter: grayscale(100%);
+    margin-right: 10px;
+}
